@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram id="eR11egbqJdRhmp2y4E_H" name="第 1页">
-    <mxGraphModel dx="1242" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="260" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xBLjAhIbgTnfrSEA650y-2" target="xBLjAhIbgTnfrSEA650y-7">
           <mxGeometry relative="1" as="geometry" />
@@ -17,19 +17,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-2" value="开具发票" style="rounded=0;whiteSpace=wrap;html=1;shape=rhombus;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xBLjAhIbgTnfrSEA650y-7" target="xBLjAhIbgTnfrSEA650y-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-7" value="填写费用报销单并附上纸质发票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xBLjAhIbgTnfrSEA650y-8" target="xBLjAhIbgTnfrSEA650y-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-8" value="部门领导审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xBLjAhIbgTnfrSEA650y-9" target="xBLjAhIbgTnfrSEA650y-13">
           <mxGeometry relative="1" as="geometry" />
@@ -43,37 +43,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-9" value="审批结果" style="rounded=0;whiteSpace=wrap;html=1;shape=rhombus;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="260" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="260" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xBLjAhIbgTnfrSEA650y-13" target="xBLjAhIbgTnfrSEA650y-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-13" value="转账并核销账单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xBLjAhIbgTnfrSEA650y-20" target="xBLjAhIbgTnfrSEA650y-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-20" value="打印发票" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-25" value="纸质发票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="285" y="210" width="70" height="30" as="geometry" />
+          <mxGeometry x="315" y="320" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-36" value="电子发票" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="120" y="155" width="70" height="30" as="geometry" />
+          <mxGeometry x="150" y="265" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xBLjAhIbgTnfrSEA650y-45" target="xBLjAhIbgTnfrSEA650y-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-45" value="了解报销规范" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xBLjAhIbgTnfrSEA650y-47" value="不通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="420" y="515" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xBLjAhIbgTnfrSEA650y-76" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;费用报销流程图&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
